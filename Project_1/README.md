@@ -1,4 +1,4 @@
-# EE 474 - Project
+# EE 474 - Project_1
 This repository is used to hold the project files.
 
 ## Author
@@ -7,12 +7,6 @@ This repository is used to hold the project files.
 | -------------     | ------------- |
 | Minh Khuu         | Member        |
 
-## Project Files
-
-1. TBD
-2. TBD
-3. TBD
-4. TBD
-5. TBD
+## Description
 
 
